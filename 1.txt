@@ -1,3 +1,1 @@
-test code C1
-
-test code C2
+Modify from Beta
